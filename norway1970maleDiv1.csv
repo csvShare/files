@@ -1,0 +1,91 @@
+,matchDate,matchround,teamh,teama,goalsh,goalsa,year,country,division,female
+0,1970-04-27,1,Fredrikstad,Brann,0,0,1970,Norway,1,0
+1,1970-04-27,1,Hødd,Strømsgodset,1,3,1970,Norway,1,0
+2,1970-04-27,1,Pors,Rosenborg,0,2,1970,Norway,1,0
+3,1970-04-27,1,Skeid,Sarpsborg FK,1,2,1970,Norway,1,0
+4,1970-04-27,1,Viking,Ham Kam,0,2,1970,Norway,1,0
+5,1970-05-03,2,Ham Kam,Fredrikstad,0,0,1970,Norway,1,0
+6,1970-05-03,2,Sarpsborg FK,Viking,2,1,1970,Norway,1,0
+7,1970-05-03,2,Strømsgodset,Pors,7,1,1970,Norway,1,0
+8,1970-05-04,2,Brann,Hødd,2,0,1970,Norway,1,0
+9,1970-05-04,2,Rosenborg,Skeid,1,0,1970,Norway,1,0
+10,1970-05-08,3,Fredrikstad,Sarpsborg FK,2,3,1970,Norway,1,0
+11,1970-05-09,3,Viking,Rosenborg,0,0,1970,Norway,1,0
+12,1970-05-10,3,Hødd,Ham Kam,1,0,1970,Norway,1,0
+13,1970-05-10,3,Pors,Skeid,2,1,1970,Norway,1,0
+14,1970-05-10,3,Strømsgodset,Brann,0,0,1970,Norway,1,0
+15,1970-05-16,4,Fredrikstad,Hødd,2,2,1970,Norway,1,0
+16,1970-05-16,4,Ham Kam,Strømsgodset,4,1,1970,Norway,1,0
+17,1970-05-16,4,Pors,Viking,1,1,1970,Norway,1,0
+18,1970-05-19,4,Rosenborg,Sarpsborg FK,0,1,1970,Norway,1,0
+19,1970-05-19,4,Skeid,Brann,1,1,1970,Norway,1,0
+20,1970-05-24,5,Hødd,Rosenborg,0,0,1970,Norway,1,0
+21,1970-05-24,5,Sarpsborg FK,Pors,0,1,1970,Norway,1,0
+22,1970-05-24,5,Strømsgodset,Fredrikstad,2,2,1970,Norway,1,0
+23,1970-05-25,5,Brann,Ham Kam,0,3,1970,Norway,1,0
+24,1970-05-25,5,Viking,Skeid,2,1,1970,Norway,1,0
+25,1970-05-29,6,Sarpsborg FK,Strømsgodset,0,2,1970,Norway,1,0
+26,1970-05-31,6,Pors,Ham Kam,0,1,1970,Norway,1,0
+27,1970-05-31,6,Skeid,Hødd,1,0,1970,Norway,1,0
+28,1970-06-01,6,Rosenborg,Fredrikstad,2,0,1970,Norway,1,0
+29,1970-06-01,6,Viking,Brann,2,1,1970,Norway,1,0
+30,1970-06-07,7,Hødd,Sarpsborg FK,0,2,1970,Norway,1,0
+31,1970-06-07,7,Strømsgodset,Viking,1,0,1970,Norway,1,0
+32,1970-06-08,7,Brann,Rosenborg,0,1,1970,Norway,1,0
+33,1970-06-08,7,Ham Kam,Skeid,1,1,1970,Norway,1,0
+34,1970-06-11,8,Skeid,Fredrikstad,0,1,1970,Norway,1,0
+35,1970-06-12,8,Rosenborg,Strømsgodset,1,0,1970,Norway,1,0
+36,1970-06-12,8,Sarpsborg FK,Ham Kam,1,0,1970,Norway,1,0
+37,1970-06-14,8,Pors,Brann,0,3,1970,Norway,1,0
+38,1970-06-14,8,Viking,Hødd,2,0,1970,Norway,1,0
+39,1970-06-21,9,Ham Kam,Rosenborg,1,0,1970,Norway,1,0
+40,1970-06-21,9,Hødd,Pors,2,0,1970,Norway,1,0
+41,1970-06-22,9,Brann,Sarpsborg FK,0,1,1970,Norway,1,0
+42,1970-06-22,9,Fredrikstad,Viking,0,2,1970,Norway,1,0
+43,1970-06-22,9,Skeid,Strømsgodset,0,2,1970,Norway,1,0
+44,1970-06-26,7,Fredrikstad,Pors,1,2,1970,Norway,1,0
+45,1970-08-02,10,Ham Kam,Viking,4,2,1970,Norway,1,0
+46,1970-08-02,10,Strømsgodset,Hødd,4,3,1970,Norway,1,0
+47,1970-08-03,10,Brann,Fredrikstad,1,0,1970,Norway,1,0
+48,1970-08-03,10,Rosenborg,Pors,1,0,1970,Norway,1,0
+49,1970-08-03,10,Sarpsborg FK,Skeid,0,3,1970,Norway,1,0
+50,1970-08-12,11,Fredrikstad,Ham Kam,0,0,1970,Norway,1,0
+51,1970-08-12,11,Hødd,Brann,1,2,1970,Norway,1,0
+52,1970-08-12,11,Pors,Strømsgodset,1,3,1970,Norway,1,0
+53,1970-08-12,11,Skeid,Rosenborg,0,2,1970,Norway,1,0
+54,1970-08-12,11,Viking,Sarpsborg FK,3,2,1970,Norway,1,0
+55,1970-08-16,12,Ham Kam,Hødd,4,1,1970,Norway,1,0
+56,1970-08-16,12,Skeid,Pors,4,1,1970,Norway,1,0
+57,1970-08-17,12,Brann,Strømsgodset,1,0,1970,Norway,1,0
+58,1970-08-17,12,Rosenborg,Viking,1,0,1970,Norway,1,0
+59,1970-08-17,12,Sarpsborg FK,Fredrikstad,1,1,1970,Norway,1,0
+60,1970-08-23,13,Hødd,Fredrikstad,1,2,1970,Norway,1,0
+61,1970-08-23,13,Sarpsborg FK,Rosenborg,0,0,1970,Norway,1,0
+62,1970-08-23,13,Strømsgodset,Ham Kam,4,2,1970,Norway,1,0
+63,1970-08-23,13,Viking,Pors,4,0,1970,Norway,1,0
+64,1970-08-24,13,Brann,Skeid,2,0,1970,Norway,1,0
+65,1970-09-06,14,Fredrikstad,Strømsgodset,2,0,1970,Norway,1,0
+66,1970-09-06,14,Ham Kam,Brann,0,1,1970,Norway,1,0
+67,1970-09-06,14,Pors,Sarpsborg FK,1,2,1970,Norway,1,0
+68,1970-09-06,14,Rosenborg,Hødd,1,0,1970,Norway,1,0
+69,1970-09-07,14,Skeid,Viking,0,3,1970,Norway,1,0
+70,1970-09-20,15,Brann,Viking,2,1,1970,Norway,1,0
+71,1970-09-20,15,Fredrikstad,Rosenborg,1,0,1970,Norway,1,0
+72,1970-09-20,15,Ham Kam,Pors,6,0,1970,Norway,1,0
+73,1970-09-20,15,Strømsgodset,Sarpsborg FK,2,1,1970,Norway,1,0
+74,1970-09-27,16,Pors,Fredrikstad,0,1,1970,Norway,1,0
+75,1970-09-27,16,Rosenborg,Brann,0,0,1970,Norway,1,0
+76,1970-09-27,16,Sarpsborg FK,Hødd,2,1,1970,Norway,1,0
+77,1970-09-27,16,Viking,Strømsgodset,2,2,1970,Norway,1,0
+78,1970-09-28,16,Skeid,Ham Kam,0,1,1970,Norway,1,0
+79,1970-10-04,15,Hødd,Skeid,0,0,1970,Norway,1,0
+80,1970-10-11,17,Brann,Pors,1,0,1970,Norway,1,0
+81,1970-10-11,17,Fredrikstad,Skeid,1,3,1970,Norway,1,0
+82,1970-10-11,17,Ham Kam,Sarpsborg FK,2,0,1970,Norway,1,0
+83,1970-10-11,17,Hødd,Viking,1,0,1970,Norway,1,0
+84,1970-10-11,17,Strømsgodset,Rosenborg,2,0,1970,Norway,1,0
+85,1970-10-18,18,Pors,Hødd,0,6,1970,Norway,1,0
+86,1970-10-18,18,Rosenborg,Ham Kam,3,0,1970,Norway,1,0
+87,1970-10-18,18,Sarpsborg FK,Brann,1,1,1970,Norway,1,0
+88,1970-10-18,18,Strømsgodset,Skeid,1,0,1970,Norway,1,0
+89,1970-10-18,18,Viking,Fredrikstad,2,0,1970,Norway,1,0
