@@ -1,0 +1,91 @@
+,matchDate,matchround,teamh,teama,goalsh,goalsa,year,country,division,female
+0,1966-04-22,1,Vålerenga,Skeid,0,1,1966,Norway,1,0
+1,1966-04-24,1,Hødd,Sarpsborg FK,3,1,1966,Norway,1,0
+2,1966-04-24,1,Lisleby,Lyn,2,2,1966,Norway,1,0
+3,1966-04-27,1,Frigg,Fredrikstad,1,0,1966,Norway,1,0
+4,1966-04-30,2,Sarpsborg FK,Odd,1,0,1966,Norway,1,0
+5,1966-04-30,2,Skeid,Lisleby,2,2,1966,Norway,1,0
+6,1966-05-01,2,Lyn,Hødd,1,1,1966,Norway,1,0
+7,1966-05-01,2,Steinkjer,Frigg,0,1,1966,Norway,1,0
+8,1966-05-01,2,Fredrikstad,Vålerenga,3,0,1966,Norway,1,0
+9,1966-05-06,3,Frigg,Odd,1,0,1966,Norway,1,0
+10,1966-05-07,3,Fredrikstad,Lisleby,1,1,1966,Norway,1,0
+11,1966-05-08,3,Hødd,Skeid,2,3,1966,Norway,1,0
+12,1966-05-08,3,Sarpsborg FK,Lyn,1,3,1966,Norway,1,0
+13,1966-05-08,3,Vålerenga,Steinkjer,2,5,1966,Norway,1,0
+14,1966-05-15,4,Lisleby,Hødd,6,1,1966,Norway,1,0
+15,1966-05-15,4,Lyn,Frigg,0,0,1966,Norway,1,0
+16,1966-05-15,4,Odd,Vålerenga,1,3,1966,Norway,1,0
+17,1966-05-15,4,Steinkjer,Fredrikstad,3,1,1966,Norway,1,0
+18,1966-05-19,1,Odd,Steinkjer,1,0,1966,Norway,1,0
+19,1966-05-19,4,Skeid,Sarpsborg FK,0,0,1966,Norway,1,0
+20,1966-05-22,5,Fredrikstad,Odd,3,1,1966,Norway,1,0
+21,1966-05-22,5,Hødd,Steinkjer,3,0,1966,Norway,1,0
+22,1966-05-22,5,Lyn,Skeid,1,1,1966,Norway,1,0
+23,1966-05-23,5,Sarpsborg FK,Lisleby,1,0,1966,Norway,1,0
+24,1966-05-23,5,Vålerenga,Frigg,2,1,1966,Norway,1,0
+25,1966-05-27,6,Vålerenga,Lisleby,4,2,1966,Norway,1,0
+26,1966-05-28,6,Steinkjer,Skeid,2,4,1966,Norway,1,0
+27,1966-05-30,6,Odd,Hødd,0,1,1966,Norway,1,0
+28,1966-05-31,6,Fredrikstad,Lyn,0,0,1966,Norway,1,0
+29,1966-05-31,6,Frigg,Sarpsborg FK,1,0,1966,Norway,1,0
+30,1966-06-03,7,Skeid,Fredrikstad,0,1,1966,Norway,1,0
+31,1966-06-04,7,Sarpsborg FK,Steinkjer,1,1,1966,Norway,1,0
+32,1966-06-05,7,Hødd,Vålerenga,1,3,1966,Norway,1,0
+33,1966-06-05,7,Lisleby,Frigg,1,0,1966,Norway,1,0
+34,1966-06-05,7,Lyn,Odd,4,3,1966,Norway,1,0
+35,1966-06-15,8,Fredrikstad,Sarpsborg FK,4,0,1966,Norway,1,0
+36,1966-06-15,8,Frigg,Hødd,5,1,1966,Norway,1,0
+37,1966-06-15,8,Odd,Skeid,1,1,1966,Norway,1,0
+38,1966-06-15,8,Steinkjer,Lisleby,4,2,1966,Norway,1,0
+39,1966-06-16,8,Vålerenga,Lyn,3,0,1966,Norway,1,0
+40,1966-06-19,9,Hødd,Fredrikstad,1,3,1966,Norway,1,0
+41,1966-06-19,9,Lisleby,Odd,0,1,1966,Norway,1,0
+42,1966-06-19,9,Lyn,Steinkjer,2,1,1966,Norway,1,0
+43,1966-06-19,9,Sarpsborg FK,Vålerenga,3,0,1966,Norway,1,0
+44,1966-06-20,9,Skeid,Frigg,2,0,1966,Norway,1,0
+45,1966-07-31,10,Sarpsborg FK,Hødd,1,1,1966,Norway,1,0
+46,1966-07-31,10,Skeid,Vålerenga,5,1,1966,Norway,1,0
+47,1966-07-31,10,Steinkjer,Odd,5,1,1966,Norway,1,0
+48,1966-08-03,10,Fredrikstad,Frigg,3,3,1966,Norway,1,0
+49,1966-08-03,10,Lyn,Lisleby,2,2,1966,Norway,1,0
+50,1966-08-06,11,Lisleby,Skeid,0,1,1966,Norway,1,0
+51,1966-08-07,11,Frigg,Steinkjer,1,1,1966,Norway,1,0
+52,1966-08-07,11,Odd,Sarpsborg FK,1,3,1966,Norway,1,0
+53,1966-08-08,11,Vålerenga,Fredrikstad,3,0,1966,Norway,1,0
+54,1966-08-17,12,Frigg,Vålerenga,3,0,1966,Norway,1,0
+55,1966-08-17,12,Lisleby,Sarpsborg FK,0,0,1966,Norway,1,0
+56,1966-08-17,12,Odd,Fredrikstad,3,0,1966,Norway,1,0
+57,1966-08-17,12,Skeid,Lyn,2,1,1966,Norway,1,0
+58,1966-08-17,12,Steinkjer,Hødd,3,1,1966,Norway,1,0
+59,1966-08-24,11,Hødd,Lyn,4,2,1966,Norway,1,0
+60,1966-08-27,13,Sarpsborg FK,Skeid,2,2,1966,Norway,1,0
+61,1966-08-28,13,Fredrikstad,Steinkjer,2,1,1966,Norway,1,0
+62,1966-08-28,13,Frigg,Lyn,0,2,1966,Norway,1,0
+63,1966-08-28,13,Hødd,Lisleby,1,2,1966,Norway,1,0
+64,1966-08-28,13,Vålerenga,Odd,3,1,1966,Norway,1,0
+65,1966-09-11,14,Lisleby,Fredrikstad,1,2,1966,Norway,1,0
+66,1966-09-11,14,Lyn,Sarpsborg FK,1,0,1966,Norway,1,0
+67,1966-09-11,14,Odd,Frigg,2,1,1966,Norway,1,0
+68,1966-09-11,14,Skeid,Hødd,4,2,1966,Norway,1,0
+69,1966-09-11,14,Steinkjer,Vålerenga,2,1,1966,Norway,1,0
+70,1966-09-22,15,Lyn,Fredrikstad,1,1,1966,Norway,1,0
+71,1966-09-23,15,Lisleby,Vålerenga,0,1,1966,Norway,1,0
+72,1966-09-24,15,Hødd,Odd,2,2,1966,Norway,1,0
+73,1966-09-24,15,Sarpsborg FK,Frigg,0,0,1966,Norway,1,0
+74,1966-09-24,15,Skeid,Steinkjer,1,1,1966,Norway,1,0
+75,1966-10-09,16,Fredrikstad,Skeid,4,1,1966,Norway,1,0
+76,1966-10-09,16,Frigg,Lisleby,1,0,1966,Norway,1,0
+77,1966-10-09,16,Odd,Lyn,1,1,1966,Norway,1,0
+78,1966-10-09,16,Steinkjer,Sarpsborg FK,1,0,1966,Norway,1,0
+79,1966-10-09,16,Vålerenga,Hødd,2,4,1966,Norway,1,0
+80,1966-10-15,17,Sarpsborg FK,Fredrikstad,0,3,1966,Norway,1,0
+81,1966-10-16,17,Hødd,Frigg,0,2,1966,Norway,1,0
+82,1966-10-16,17,Lisleby,Steinkjer,1,0,1966,Norway,1,0
+83,1966-10-16,17,Skeid,Odd,0,0,1966,Norway,1,0
+84,1966-10-17,17,Lyn,Vålerenga,1,1,1966,Norway,1,0
+85,1966-10-23,18,Fredrikstad,Hødd,6,0,1966,Norway,1,0
+86,1966-10-23,18,Frigg,Skeid,0,1,1966,Norway,1,0
+87,1966-10-23,18,Odd,Lisleby,2,0,1966,Norway,1,0
+88,1966-10-23,18,Steinkjer,Lyn,1,4,1966,Norway,1,0
+89,1966-10-23,18,Vålerenga,Sarpsborg FK,3,2,1966,Norway,1,0
