@@ -1,0 +1,133 @@
+,matchDate,matchround,teamh,teama,goalsh,goalsa,year,country,division,female
+0,1982-04-25,1,Bryne,Rosenborg,1,0,1982,Norway,1,0
+1,1982-04-25,1,Fredrikstad,Viking,2,0,1982,Norway,1,0
+2,1982-04-25,1,Ham Kam,Moss,2,1,1982,Norway,1,0
+3,1982-04-25,1,Lillestrøm,Mjøndalen,2,1,1982,Norway,1,0
+4,1982-04-25,1,Sogndal,Molde,1,1,1982,Norway,1,0
+5,1982-04-25,1,Start,Vålerenga,0,2,1982,Norway,1,0
+6,1982-05-02,2,Mjøndalen,Ham Kam,1,0,1982,Norway,1,0
+7,1982-05-02,2,Molde,Lillestrøm,2,1,1982,Norway,1,0
+8,1982-05-02,2,Moss,Bryne,1,1,1982,Norway,1,0
+9,1982-05-03,2,Rosenborg,Fredrikstad,2,2,1982,Norway,1,0
+10,1982-05-03,2,Viking,Start,3,1,1982,Norway,1,0
+11,1982-05-03,2,Vålerenga,Sogndal,5,2,1982,Norway,1,0
+12,1982-05-09,3,Bryne,Mjøndalen,0,0,1982,Norway,1,0
+13,1982-05-09,3,Ham Kam,Molde,2,1,1982,Norway,1,0
+14,1982-05-09,3,Lillestrøm,Vålerenga,0,2,1982,Norway,1,0
+15,1982-05-09,3,Moss,Rosenborg,2,2,1982,Norway,1,0
+16,1982-05-09,3,Sogndal,Viking,0,1,1982,Norway,1,0
+17,1982-05-09,3,Start,Fredrikstad,1,0,1982,Norway,1,0
+18,1982-05-16,4,Fredrikstad,Sogndal,2,1,1982,Norway,1,0
+19,1982-05-16,4,Mjøndalen,Moss,1,0,1982,Norway,1,0
+20,1982-05-16,4,Molde,Bryne,0,1,1982,Norway,1,0
+21,1982-05-16,4,Rosenborg,Start,1,1,1982,Norway,1,0
+22,1982-05-16,4,Viking,Lillestrøm,4,1,1982,Norway,1,0
+23,1982-05-16,4,Vålerenga,Ham Kam,4,2,1982,Norway,1,0
+24,1982-05-20,5,Bryne,Viking,1,1,1982,Norway,1,0
+25,1982-05-20,5,Ham Kam,Fredrikstad,3,4,1982,Norway,1,0
+26,1982-05-20,5,Lillestrøm,Start,0,1,1982,Norway,1,0
+27,1982-05-20,5,Mjøndalen,Molde,4,1,1982,Norway,1,0
+28,1982-05-20,5,Moss,Vålerenga,3,2,1982,Norway,1,0
+29,1982-05-20,5,Sogndal,Rosenborg,3,3,1982,Norway,1,0
+30,1982-05-24,6,Fredrikstad,Lillestrøm,1,2,1982,Norway,1,0
+31,1982-05-24,6,Molde,Moss,1,0,1982,Norway,1,0
+32,1982-05-24,6,Rosenborg,Mjøndalen,3,1,1982,Norway,1,0
+33,1982-05-24,6,Start,Sogndal,1,0,1982,Norway,1,0
+34,1982-05-24,6,Viking,Ham Kam,1,2,1982,Norway,1,0
+35,1982-05-24,6,Vålerenga,Bryne,1,2,1982,Norway,1,0
+36,1982-05-31,7,Bryne,Fredrikstad,2,0,1982,Norway,1,0
+37,1982-05-31,7,Ham Kam,Start,5,3,1982,Norway,1,0
+38,1982-05-31,7,Lillestrøm,Sogndal,0,1,1982,Norway,1,0
+39,1982-05-31,7,Mjøndalen,Vålerenga,1,0,1982,Norway,1,0
+40,1982-05-31,7,Molde,Rosenborg,1,1,1982,Norway,1,0
+41,1982-05-31,7,Moss,Viking,0,1,1982,Norway,1,0
+42,1982-06-06,8,Sogndal,Ham Kam,1,2,1982,Norway,1,0
+43,1982-06-06,8,Start,Bryne,2,1,1982,Norway,1,0
+44,1982-06-07,8,Fredrikstad,Moss,1,1,1982,Norway,1,0
+45,1982-06-07,8,Rosenborg,Lillestrøm,0,2,1982,Norway,1,0
+46,1982-06-07,8,Viking,Mjøndalen,2,2,1982,Norway,1,0
+47,1982-06-07,8,Vålerenga,Molde,1,2,1982,Norway,1,0
+48,1982-06-13,9,Bryne,Sogndal,1,0,1982,Norway,1,0
+49,1982-06-13,9,Lillestrøm,Ham Kam,1,0,1982,Norway,1,0
+50,1982-06-13,9,Mjøndalen,Fredrikstad,2,0,1982,Norway,1,0
+51,1982-06-13,9,Molde,Viking,1,3,1982,Norway,1,0
+52,1982-06-13,9,Moss,Start,3,1,1982,Norway,1,0
+53,1982-06-13,9,Vålerenga,Rosenborg,5,1,1982,Norway,1,0
+54,1982-06-27,10,Fredrikstad,Molde,2,1,1982,Norway,1,0
+55,1982-06-27,10,Ham Kam,Rosenborg,0,4,1982,Norway,1,0
+56,1982-06-27,10,Lillestrøm,Bryne,1,0,1982,Norway,1,0
+57,1982-06-27,10,Sogndal,Moss,2,1,1982,Norway,1,0
+58,1982-06-27,10,Start,Mjøndalen,3,0,1982,Norway,1,0
+59,1982-06-27,10,Viking,Vålerenga,0,0,1982,Norway,1,0
+60,1982-06-30,11,Bryne,Ham Kam,1,3,1982,Norway,1,0
+61,1982-06-30,11,Mjøndalen,Sogndal,2,1,1982,Norway,1,0
+62,1982-06-30,11,Molde,Start,0,0,1982,Norway,1,0
+63,1982-06-30,11,Moss,Lillestrøm,0,0,1982,Norway,1,0
+64,1982-06-30,11,Rosenborg,Viking,1,1,1982,Norway,1,0
+65,1982-06-30,11,Vålerenga,Fredrikstad,1,0,1982,Norway,1,0
+66,1982-08-01,12,Mjøndalen,Lillestrøm,2,4,1982,Norway,1,0
+67,1982-08-01,12,Molde,Sogndal,0,0,1982,Norway,1,0
+68,1982-08-01,12,Moss,Ham Kam,1,1,1982,Norway,1,0
+69,1982-08-01,12,Rosenborg,Bryne,2,1,1982,Norway,1,0
+70,1982-08-01,12,Viking,Fredrikstad,2,0,1982,Norway,1,0
+71,1982-08-01,12,Vålerenga,Start,1,1,1982,Norway,1,0
+72,1982-08-08,13,Bryne,Moss,0,0,1982,Norway,1,0
+73,1982-08-08,13,Fredrikstad,Rosenborg,1,1,1982,Norway,1,0
+74,1982-08-08,13,Ham Kam,Mjøndalen,1,1,1982,Norway,1,0
+75,1982-08-08,13,Lillestrøm,Molde,7,4,1982,Norway,1,0
+76,1982-08-08,13,Sogndal,Vålerenga,0,1,1982,Norway,1,0
+77,1982-08-08,13,Start,Viking,0,2,1982,Norway,1,0
+78,1982-08-15,14,Fredrikstad,Start,0,0,1982,Norway,1,0
+79,1982-08-15,14,Mjøndalen,Bryne,3,0,1982,Norway,1,0
+80,1982-08-15,14,Molde,Ham Kam,1,3,1982,Norway,1,0
+81,1982-08-15,14,Rosenborg,Moss,2,1,1982,Norway,1,0
+82,1982-08-15,14,Viking,Sogndal,3,3,1982,Norway,1,0
+83,1982-08-15,14,Vålerenga,Lillestrøm,1,1,1982,Norway,1,0
+84,1982-08-18,15,Bryne,Molde,3,2,1982,Norway,1,0
+85,1982-08-18,15,Ham Kam,Vålerenga,1,0,1982,Norway,1,0
+86,1982-08-18,15,Lillestrøm,Viking,1,2,1982,Norway,1,0
+87,1982-08-18,15,Moss,Mjøndalen,2,0,1982,Norway,1,0
+88,1982-08-18,15,Sogndal,Fredrikstad,2,2,1982,Norway,1,0
+89,1982-08-18,15,Start,Rosenborg,1,1,1982,Norway,1,0
+90,1982-08-22,16,Fredrikstad,Ham Kam,0,1,1982,Norway,1,0
+91,1982-08-22,16,Molde,Mjøndalen,2,2,1982,Norway,1,0
+92,1982-08-22,16,Rosenborg,Sogndal,2,1,1982,Norway,1,0
+93,1982-08-22,16,Start,Lillestrøm,0,1,1982,Norway,1,0
+94,1982-08-22,16,Viking,Bryne,1,2,1982,Norway,1,0
+95,1982-08-22,16,Vålerenga,Moss,2,0,1982,Norway,1,0
+96,1982-08-29,17,Bryne,Vålerenga,1,0,1982,Norway,1,0
+97,1982-08-29,17,Ham Kam,Viking,1,4,1982,Norway,1,0
+98,1982-08-29,17,Lillestrøm,Fredrikstad,4,0,1982,Norway,1,0
+99,1982-08-29,17,Mjøndalen,Rosenborg,1,0,1982,Norway,1,0
+100,1982-08-29,17,Moss,Molde,4,1,1982,Norway,1,0
+101,1982-08-29,17,Sogndal,Start,2,1,1982,Norway,1,0
+102,1982-09-05,18,Fredrikstad,Bryne,1,1,1982,Norway,1,0
+103,1982-09-05,18,Rosenborg,Molde,0,1,1982,Norway,1,0
+104,1982-09-05,18,Sogndal,Lillestrøm,0,3,1982,Norway,1,0
+105,1982-09-05,18,Start,Ham Kam,1,3,1982,Norway,1,0
+106,1982-09-05,18,Viking,Moss,2,1,1982,Norway,1,0
+107,1982-09-05,18,Vålerenga,Mjøndalen,4,0,1982,Norway,1,0
+108,1982-09-12,19,Bryne,Start,3,3,1982,Norway,1,0
+109,1982-09-12,19,Ham Kam,Sogndal,0,1,1982,Norway,1,0
+110,1982-09-12,19,Lillestrøm,Rosenborg,1,0,1982,Norway,1,0
+111,1982-09-12,19,Mjøndalen,Viking,2,1,1982,Norway,1,0
+112,1982-09-12,19,Molde,Vålerenga,1,1,1982,Norway,1,0
+113,1982-09-12,19,Moss,Fredrikstad,0,0,1982,Norway,1,0
+114,1982-09-26,20,Fredrikstad,Mjøndalen,4,2,1982,Norway,1,0
+115,1982-09-26,20,Ham Kam,Lillestrøm,1,0,1982,Norway,1,0
+116,1982-09-26,20,Rosenborg,Vålerenga,1,0,1982,Norway,1,0
+117,1982-09-26,20,Sogndal,Bryne,3,0,1982,Norway,1,0
+118,1982-09-26,20,Start,Moss,1,2,1982,Norway,1,0
+119,1982-09-26,20,Viking,Molde,1,1,1982,Norway,1,0
+120,1982-10-03,21,Bryne,Lillestrøm,2,1,1982,Norway,1,0
+121,1982-10-03,21,Mjøndalen,Start,0,2,1982,Norway,1,0
+122,1982-10-03,21,Molde,Fredrikstad,0,0,1982,Norway,1,0
+123,1982-10-03,21,Moss,Sogndal,2,1,1982,Norway,1,0
+124,1982-10-03,21,Rosenborg,Ham Kam,3,0,1982,Norway,1,0
+125,1982-10-03,21,Vålerenga,Viking,0,2,1982,Norway,1,0
+126,1982-10-10,22,Fredrikstad,Vålerenga,0,2,1982,Norway,1,0
+127,1982-10-10,22,Ham Kam,Bryne,0,1,1982,Norway,1,0
+128,1982-10-10,22,Lillestrøm,Moss,2,2,1982,Norway,1,0
+129,1982-10-10,22,Sogndal,Mjøndalen,0,0,1982,Norway,1,0
+130,1982-10-10,22,Start,Molde,4,2,1982,Norway,1,0
+131,1982-10-10,22,Viking,Rosenborg,2,2,1982,Norway,1,0
