@@ -1,0 +1,133 @@
+,matchDate,matchround,teamh,teama,goalsh,goalsa,year,country,division,female
+0,1973-05-01,1,Brann,Rosenborg,0,1,1973,Norway,1,0
+1,1973-05-01,1,Fredrikstad,Viking,0,2,1973,Norway,1,0
+2,1973-05-01,1,Frigg,Raufoss,1,2,1973,Norway,1,0
+3,1973-05-01,1,Ham Kam,Lyn,1,1,1973,Norway,1,0
+4,1973-05-01,1,Mjøndalen,Strømsgodset,0,3,1973,Norway,1,0
+5,1973-05-01,1,Start,Skeid,1,0,1973,Norway,1,0
+6,1973-05-03,2,Skeid,Brann,3,0,1973,Norway,1,0
+7,1973-05-06,2,Lyn,Mjøndalen,0,1,1973,Norway,1,0
+8,1973-05-06,2,Raufoss,Start,0,2,1973,Norway,1,0
+9,1973-05-06,2,Rosenborg,Fredrikstad,1,0,1973,Norway,1,0
+10,1973-05-06,2,Strømsgodset,Frigg,1,1,1973,Norway,1,0
+11,1973-05-06,2,Viking,Ham Kam,2,1,1973,Norway,1,0
+12,1973-05-13,3,Ham Kam,Fredrikstad,1,1,1973,Norway,1,0
+13,1973-05-13,3,Mjøndalen,Viking,0,1,1973,Norway,1,0
+14,1973-05-13,3,Skeid,Rosenborg,0,0,1973,Norway,1,0
+15,1973-05-13,3,Start,Strømsgodset,1,1,1973,Norway,1,0
+16,1973-05-14,3,Brann,Raufoss,0,1,1973,Norway,1,0
+17,1973-05-14,3,Frigg,Lyn,2,1,1973,Norway,1,0
+18,1973-05-20,4,Lyn,Start,1,0,1973,Norway,1,0
+19,1973-05-20,4,Raufoss,Skeid,2,2,1973,Norway,1,0
+20,1973-05-20,4,Rosenborg,Ham Kam,2,0,1973,Norway,1,0
+21,1973-05-20,4,Strømsgodset,Brann,1,0,1973,Norway,1,0
+22,1973-05-20,4,Viking,Frigg,2,1,1973,Norway,1,0
+23,1973-05-21,4,Fredrikstad,Mjøndalen,0,0,1973,Norway,1,0
+24,1973-05-23,5,Brann,Lyn,5,2,1973,Norway,1,0
+25,1973-05-23,5,Raufoss,Rosenborg,0,2,1973,Norway,1,0
+26,1973-05-23,5,Skeid,Strømsgodset,0,1,1973,Norway,1,0
+27,1973-05-23,5,Start,Viking,0,3,1973,Norway,1,0
+28,1973-05-24,5,Frigg,Fredrikstad,1,2,1973,Norway,1,0
+29,1973-05-24,5,Mjøndalen,Ham Kam,2,2,1973,Norway,1,0
+30,1973-05-27,6,Fredrikstad,Start,1,1,1973,Norway,1,0
+31,1973-05-28,6,Ham Kam,Frigg,1,1,1973,Norway,1,0
+32,1973-05-28,6,Lyn,Skeid,0,0,1973,Norway,1,0
+33,1973-05-28,6,Rosenborg,Mjøndalen,0,1,1973,Norway,1,0
+34,1973-05-28,6,Strømsgodset,Raufoss,0,2,1973,Norway,1,0
+35,1973-05-28,6,Viking,Brann,4,1,1973,Norway,1,0
+36,1973-05-31,7,Frigg,Rosenborg,0,0,1973,Norway,1,0
+37,1973-06-03,7,Brann,Ham Kam,0,0,1973,Norway,1,0
+38,1973-06-03,7,Raufoss,Viking,0,0,1973,Norway,1,0
+39,1973-06-03,7,Skeid,Fredrikstad,1,0,1973,Norway,1,0
+40,1973-06-03,7,Start,Mjøndalen,0,0,1973,Norway,1,0
+41,1973-06-03,7,Strømsgodset,Lyn,2,0,1973,Norway,1,0
+42,1973-06-11,8,Fredrikstad,Brann,1,4,1973,Norway,1,0
+43,1973-06-11,8,Ham Kam,Start,2,1,1973,Norway,1,0
+44,1973-06-11,8,Mjøndalen,Frigg,4,1,1973,Norway,1,0
+45,1973-06-12,8,Lyn,Raufoss,2,0,1973,Norway,1,0
+46,1973-06-12,8,Rosenborg,Strømsgodset,3,2,1973,Norway,1,0
+47,1973-06-12,8,Viking,Skeid,1,1,1973,Norway,1,0
+48,1973-06-17,9,Raufoss,Fredrikstad,1,1,1973,Norway,1,0
+49,1973-06-17,9,Skeid,Ham Kam,0,1,1973,Norway,1,0
+50,1973-06-17,9,Strømsgodset,Viking,0,1,1973,Norway,1,0
+51,1973-06-18,9,Brann,Mjøndalen,3,0,1973,Norway,1,0
+52,1973-06-18,9,Rosenborg,Lyn,1,1,1973,Norway,1,0
+53,1973-06-18,9,Start,Frigg,2,0,1973,Norway,1,0
+54,1973-06-24,10,Mjøndalen,Raufoss,1,0,1973,Norway,1,0
+55,1973-06-25,10,Fredrikstad,Lyn,0,2,1973,Norway,1,0
+56,1973-06-25,10,Frigg,Skeid,2,0,1973,Norway,1,0
+57,1973-06-25,10,Ham Kam,Strømsgodset,2,0,1973,Norway,1,0
+58,1973-06-25,10,Start,Brann,1,0,1973,Norway,1,0
+59,1973-06-25,10,Viking,Rosenborg,1,1,1973,Norway,1,0
+60,1973-06-28,11,Skeid,Mjøndalen,0,0,1973,Norway,1,0
+61,1973-07-01,11,Raufoss,Ham Kam,0,2,1973,Norway,1,0
+62,1973-07-01,11,Strømsgodset,Fredrikstad,5,2,1973,Norway,1,0
+63,1973-07-02,11,Brann,Frigg,0,1,1973,Norway,1,0
+64,1973-07-02,11,Lyn,Viking,0,1,1973,Norway,1,0
+65,1973-07-02,11,Rosenborg,Start,1,1,1973,Norway,1,0
+66,1973-07-29,12,Raufoss,Frigg,1,4,1973,Norway,1,0
+67,1973-07-29,12,Skeid,Start,2,0,1973,Norway,1,0
+68,1973-07-29,12,Strømsgodset,Mjøndalen,3,1,1973,Norway,1,0
+69,1973-07-30,12,Lyn,Ham Kam,0,2,1973,Norway,1,0
+70,1973-07-30,12,Rosenborg,Brann,5,0,1973,Norway,1,0
+71,1973-07-30,12,Viking,Fredrikstad,1,0,1973,Norway,1,0
+72,1973-08-05,13,Brann,Skeid,1,1,1973,Norway,1,0
+73,1973-08-05,13,Fredrikstad,Rosenborg,2,2,1973,Norway,1,0
+74,1973-08-05,13,Frigg,Strømsgodset,0,0,1973,Norway,1,0
+75,1973-08-05,13,Ham Kam,Viking,0,3,1973,Norway,1,0
+76,1973-08-05,13,Mjøndalen,Lyn,3,1,1973,Norway,1,0
+77,1973-08-05,13,Start,Raufoss,0,1,1973,Norway,1,0
+78,1973-08-08,14,Lyn,Frigg,1,1,1973,Norway,1,0
+79,1973-08-08,14,Strømsgodset,Start,1,3,1973,Norway,1,0
+80,1973-08-08,14,Viking,Mjøndalen,2,0,1973,Norway,1,0
+81,1973-08-09,14,Fredrikstad,Ham Kam,2,1,1973,Norway,1,0
+82,1973-08-09,14,Raufoss,Brann,1,1,1973,Norway,1,0
+83,1973-08-12,15,Frigg,Viking,1,1,1973,Norway,1,0
+84,1973-08-12,15,Ham Kam,Rosenborg,2,1,1973,Norway,1,0
+85,1973-08-12,15,Mjøndalen,Fredrikstad,2,1,1973,Norway,1,0
+86,1973-08-12,15,Start,Lyn,2,1,1973,Norway,1,0
+87,1973-08-13,15,Skeid,Raufoss,0,3,1973,Norway,1,0
+88,1973-08-14,15,Brann,Strømsgodset,1,0,1973,Norway,1,0
+89,1973-08-16,14,Rosenborg,Skeid,3,0,1973,Norway,1,0
+90,1973-08-23,16,Fredrikstad,Frigg,0,1,1973,Norway,1,0
+91,1973-08-23,16,Lyn,Brann,0,1,1973,Norway,1,0
+92,1973-08-23,16,Viking,Start,1,2,1973,Norway,1,0
+93,1973-08-26,16,Ham Kam,Mjøndalen,2,0,1973,Norway,1,0
+94,1973-08-26,16,Rosenborg,Raufoss,2,0,1973,Norway,1,0
+95,1973-08-26,16,Strømsgodset,Skeid,1,2,1973,Norway,1,0
+96,1973-08-29,17,Brann,Viking,1,0,1973,Norway,1,0
+97,1973-08-29,17,Frigg,Ham Kam,0,2,1973,Norway,1,0
+98,1973-08-29,17,Mjøndalen,Rosenborg,2,1,1973,Norway,1,0
+99,1973-08-29,17,Raufoss,Strømsgodset,2,0,1973,Norway,1,0
+100,1973-08-29,17,Start,Fredrikstad,3,1,1973,Norway,1,0
+101,1973-08-30,17,Skeid,Lyn,1,2,1973,Norway,1,0
+102,1973-09-06,18,Lyn,Strømsgodset,1,3,1973,Norway,1,0
+103,1973-09-07,18,Viking,Raufoss,1,1,1973,Norway,1,0
+104,1973-09-09,18,Fredrikstad,Skeid,1,3,1973,Norway,1,0
+105,1973-09-09,18,Ham Kam,Brann,3,3,1973,Norway,1,0
+106,1973-09-09,18,Mjøndalen,Start,0,1,1973,Norway,1,0
+107,1973-09-09,18,Rosenborg,Frigg,1,0,1973,Norway,1,0
+108,1973-09-18,19,Brann,Fredrikstad,5,0,1973,Norway,1,0
+109,1973-09-18,19,Frigg,Mjøndalen,2,2,1973,Norway,1,0
+110,1973-09-18,19,Raufoss,Lyn,2,2,1973,Norway,1,0
+111,1973-09-18,19,Skeid,Viking,0,1,1973,Norway,1,0
+112,1973-09-18,19,Start,Ham Kam,2,2,1973,Norway,1,0
+113,1973-09-18,19,Strømsgodset,Rosenborg,2,1,1973,Norway,1,0
+114,1973-09-30,20,Fredrikstad,Raufoss,1,2,1973,Norway,1,0
+115,1973-09-30,20,Frigg,Start,1,1,1973,Norway,1,0
+116,1973-09-30,20,Ham Kam,Skeid,0,1,1973,Norway,1,0
+117,1973-09-30,20,Mjøndalen,Brann,1,1,1973,Norway,1,0
+118,1973-09-30,20,Viking,Strømsgodset,0,0,1973,Norway,1,0
+119,1973-10-01,20,Lyn,Rosenborg,1,1,1973,Norway,1,0
+120,1973-10-07,21,Brann,Start,2,1,1973,Norway,1,0
+121,1973-10-07,21,Lyn,Fredrikstad,3,0,1973,Norway,1,0
+122,1973-10-07,21,Raufoss,Mjøndalen,0,0,1973,Norway,1,0
+123,1973-10-07,21,Rosenborg,Viking,2,0,1973,Norway,1,0
+124,1973-10-07,21,Skeid,Frigg,1,0,1973,Norway,1,0
+125,1973-10-07,21,Strømsgodset,Ham Kam,3,0,1973,Norway,1,0
+126,1973-10-14,22,Fredrikstad,Strømsgodset,4,1,1973,Norway,1,0
+127,1973-10-14,22,Frigg,Brann,0,2,1973,Norway,1,0
+128,1973-10-14,22,Ham Kam,Raufoss,2,0,1973,Norway,1,0
+129,1973-10-14,22,Mjøndalen,Skeid,1,2,1973,Norway,1,0
+130,1973-10-14,22,Start,Rosenborg,3,1,1973,Norway,1,0
+131,1973-10-14,22,Viking,Lyn,2,1,1973,Norway,1,0
